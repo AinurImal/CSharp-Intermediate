@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\obj\Debug\net8.0\CSharpIntermediate.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\obj\Debug\net8.0\CSharpIntermediate.Demo.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\obj\Debug\net8.0\CSharpIntermediate.Demo.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\obj\Debug\net8.0\CSharpIntermediate.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\bin\Debug\net8.0\CSharpIntermediate.Demo.exe
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\bin\Debug\net8.0\CSharpIntermediate.Demo.deps.json
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\bin\Debug\net8.0\CSharpIntermediate.Demo.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\bin\Debug\net8.0\CSharpIntermediate.Demo.dll
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\bin\Debug\net8.0\CSharpIntermediate.Demo.pdb
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\obj\Debug\net8.0\CSharpIntermediate.Demo.dll
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\obj\Debug\net8.0\refint\CSharpIntermediate.Demo.dll
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\obj\Debug\net8.0\CSharpIntermediate.Demo.pdb
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\obj\Debug\net8.0\CSharpIntermediate.Demo.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\CSharpIntermediate.Demo\CSharpIntermediate.Demo\obj\Debug\net8.0\ref\CSharpIntermediate.Demo.dll

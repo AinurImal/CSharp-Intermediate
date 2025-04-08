@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\bin\Debug\net8.0\Object_Initializers.exe
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\bin\Debug\net8.0\Object_Initializers.deps.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\bin\Debug\net8.0\Object_Initializers.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\bin\Debug\net8.0\Object_Initializers.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\bin\Debug\net8.0\Object_Initializers.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\obj\Debug\net8.0\Object_Initializers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\obj\Debug\net8.0\Object_Initializers.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\obj\Debug\net8.0\Object_Initializers.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\obj\Debug\net8.0\Object_Initializers.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\obj\Debug\net8.0\Object_Initializers.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\obj\Debug\net8.0\refint\Object_Initializers.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\obj\Debug\net8.0\Object_Initializers.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\obj\Debug\net8.0\Object_Initializers.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Object_Initializers\Object_Initializers\obj\Debug\net8.0\ref\Object_Initializers.dll
