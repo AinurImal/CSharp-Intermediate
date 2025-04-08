@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\bin\Debug\net8.0\Access_Modifier.exe
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\bin\Debug\net8.0\Access_Modifier.deps.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\bin\Debug\net8.0\Access_Modifier.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\bin\Debug\net8.0\Access_Modifier.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\bin\Debug\net8.0\Access_Modifier.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\obj\Debug\net8.0\Access_Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\obj\Debug\net8.0\Access_Modifier.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\obj\Debug\net8.0\Access_Modifier.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\obj\Debug\net8.0\Access_Modifier.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\obj\Debug\net8.0\Access_Modifier.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\obj\Debug\net8.0\refint\Access_Modifier.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\obj\Debug\net8.0\Access_Modifier.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\obj\Debug\net8.0\Access_Modifier.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifier\Access_Modifier\obj\Debug\net8.0\ref\Access_Modifier.dll
