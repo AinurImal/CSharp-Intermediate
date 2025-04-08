@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\bin\Debug\net8.0\Fields.exe
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\bin\Debug\net8.0\Fields.deps.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\bin\Debug\net8.0\Fields.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\bin\Debug\net8.0\Fields.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\bin\Debug\net8.0\Fields.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\obj\Debug\net8.0\Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\obj\Debug\net8.0\Fields.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\obj\Debug\net8.0\Fields.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\obj\Debug\net8.0\Fields.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\obj\Debug\net8.0\Fields.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\obj\Debug\net8.0\refint\Fields.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\obj\Debug\net8.0\Fields.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\obj\Debug\net8.0\Fields.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Fields\Fields\obj\Debug\net8.0\ref\Fields.dll
