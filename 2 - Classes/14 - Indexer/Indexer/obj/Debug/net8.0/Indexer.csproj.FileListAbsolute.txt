@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\bin\Debug\net8.0\Indexer.exe
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\bin\Debug\net8.0\Indexer.deps.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\bin\Debug\net8.0\Indexer.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\bin\Debug\net8.0\Indexer.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\bin\Debug\net8.0\Indexer.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\obj\Debug\net8.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\obj\Debug\net8.0\Indexer.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\obj\Debug\net8.0\Indexer.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\obj\Debug\net8.0\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\obj\Debug\net8.0\Indexer.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\obj\Debug\net8.0\refint\Indexer.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\obj\Debug\net8.0\Indexer.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\obj\Debug\net8.0\Indexer.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Indexer\Indexer\obj\Debug\net8.0\ref\Indexer.dll
