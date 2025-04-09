@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\bin\Debug\net8.0\Sealed Classes and Members.exe
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\bin\Debug\net8.0\Sealed Classes and Members.deps.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\bin\Debug\net8.0\Sealed Classes and Members.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\bin\Debug\net8.0\Sealed Classes and Members.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\bin\Debug\net8.0\Sealed Classes and Members.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\obj\Debug\net8.0\Sealed Classes and Members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\obj\Debug\net8.0\Sealed Classes and Members.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\obj\Debug\net8.0\Sealed Classes and Members.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\obj\Debug\net8.0\Sealed Classes and Members.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\obj\Debug\net8.0\Sealed Classes and Members.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\obj\Debug\net8.0\refint\Sealed Classes and Members.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\obj\Debug\net8.0\Sealed Classes and Members.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\obj\Debug\net8.0\Sealed Classes and Members.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Sealed Classes and Members\Sealed Classes and Members\obj\Debug\net8.0\ref\Sealed Classes and Members.dll

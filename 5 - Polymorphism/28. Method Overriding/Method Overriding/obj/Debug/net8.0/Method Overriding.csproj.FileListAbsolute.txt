@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\bin\Debug\net8.0\Method Overriding.exe
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\bin\Debug\net8.0\Method Overriding.deps.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\bin\Debug\net8.0\Method Overriding.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\bin\Debug\net8.0\Method Overriding.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\bin\Debug\net8.0\Method Overriding.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\obj\Debug\net8.0\Method Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\obj\Debug\net8.0\Method Overriding.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\obj\Debug\net8.0\Method Overriding.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\obj\Debug\net8.0\Method Overriding.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\obj\Debug\net8.0\Method Overriding.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\obj\Debug\net8.0\refint\Method Overriding.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\obj\Debug\net8.0\Method Overriding.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\obj\Debug\net8.0\Method Overriding.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Method Overriding\Method Overriding\obj\Debug\net8.0\ref\Method Overriding.dll
