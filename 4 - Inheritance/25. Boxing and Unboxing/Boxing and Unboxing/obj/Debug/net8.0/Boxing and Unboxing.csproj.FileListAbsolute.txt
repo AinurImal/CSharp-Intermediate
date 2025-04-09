@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\bin\Debug\net8.0\Boxing and Unboxing.exe
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\bin\Debug\net8.0\Boxing and Unboxing.deps.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\bin\Debug\net8.0\Boxing and Unboxing.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\bin\Debug\net8.0\Boxing and Unboxing.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\bin\Debug\net8.0\Boxing and Unboxing.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\net8.0\Boxing and Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\net8.0\Boxing and Unboxing.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\net8.0\Boxing and Unboxing.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\net8.0\Boxing and Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\net8.0\Boxing and Unboxing.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\net8.0\refint\Boxing and Unboxing.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\net8.0\Boxing and Unboxing.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\net8.0\Boxing and Unboxing.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Boxing and Unboxing\Boxing and Unboxing\obj\Debug\net8.0\ref\Boxing and Unboxing.dll
