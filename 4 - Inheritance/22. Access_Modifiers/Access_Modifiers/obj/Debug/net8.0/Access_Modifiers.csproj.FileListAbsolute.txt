@@ -1,0 +1,4 @@
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifiers\Access_Modifiers\obj\Debug\net8.0\Access_Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifiers\Access_Modifiers\obj\Debug\net8.0\Access_Modifiers.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifiers\Access_Modifiers\obj\Debug\net8.0\Access_Modifiers.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Access_Modifiers\Access_Modifiers\obj\Debug\net8.0\Access_Modifiers.csproj.CoreCompileInputs.cache

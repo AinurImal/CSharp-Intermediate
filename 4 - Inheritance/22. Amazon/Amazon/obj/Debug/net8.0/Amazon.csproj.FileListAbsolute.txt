@@ -1,0 +1,4 @@
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Amazon\Amazon\obj\Debug\net8.0\Amazon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Amazon\Amazon\obj\Debug\net8.0\Amazon.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Amazon\Amazon\obj\Debug\net8.0\Amazon.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Amazon\Amazon\obj\Debug\net8.0\Amazon.csproj.CoreCompileInputs.cache
