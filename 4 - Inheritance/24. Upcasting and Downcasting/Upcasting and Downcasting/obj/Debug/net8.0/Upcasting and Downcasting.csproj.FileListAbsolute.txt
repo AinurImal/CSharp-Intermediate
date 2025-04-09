@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\bin\Debug\net8.0\Upcasting and Downcasting.exe
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\bin\Debug\net8.0\Upcasting and Downcasting.deps.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\bin\Debug\net8.0\Upcasting and Downcasting.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\bin\Debug\net8.0\Upcasting and Downcasting.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\bin\Debug\net8.0\Upcasting and Downcasting.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\net8.0\Upcasting and Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\net8.0\Upcasting and Downcasting.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\net8.0\Upcasting and Downcasting.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\net8.0\Upcasting and Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\net8.0\Upcasting and Downcasting.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\net8.0\refint\Upcasting and Downcasting.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\net8.0\Upcasting and Downcasting.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\net8.0\Upcasting and Downcasting.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Upcasting and Downcasting\Upcasting and Downcasting\obj\Debug\net8.0\ref\Upcasting and Downcasting.dll
