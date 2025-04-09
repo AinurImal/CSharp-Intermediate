@@ -1,0 +1,14 @@
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\obj\Debug\net8.0\Constructor and Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\obj\Debug\net8.0\Constructor and Inheritance.AssemblyInfoInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\obj\Debug\net8.0\Constructor and Inheritance.AssemblyInfo.cs
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\obj\Debug\net8.0\Constructor and Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\bin\Debug\net8.0\Constructor and Inheritance.exe
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\bin\Debug\net8.0\Constructor and Inheritance.deps.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\bin\Debug\net8.0\Constructor and Inheritance.runtimeconfig.json
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\bin\Debug\net8.0\Constructor and Inheritance.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\bin\Debug\net8.0\Constructor and Inheritance.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\obj\Debug\net8.0\Constructor and Inheritance.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\obj\Debug\net8.0\refint\Constructor and Inheritance.dll
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\obj\Debug\net8.0\Constructor and Inheritance.pdb
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\obj\Debug\net8.0\Constructor and Inheritance.genruntimeconfig.cache
+C:\Users\Work Purpose\source\Csharp\2 - Classes, Interfaces and OOP\Constructor and Inheritance\Constructor and Inheritance\obj\Debug\net8.0\ref\Constructor and Inheritance.dll
